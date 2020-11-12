@@ -1,0 +1,10 @@
+C:\Users\zacca\source\repos\majid\majid\bin\Debug\majid.exe.config
+C:\Users\zacca\source\repos\majid\majid\bin\Debug\majid.exe
+C:\Users\zacca\source\repos\majid\majid\bin\Debug\majid.pdb
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.csprojAssemblyReference.cache
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.Form1.resources
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.Properties.Resources.resources
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.csproj.GenerateResource.cache
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.csproj.CoreCompileInputs.cache
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.exe
+C:\Users\zacca\source\repos\majid\majid\obj\Debug\majid.pdb
