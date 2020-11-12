@@ -182,9 +182,7 @@ namespace majid
 
         private void btncancella_Click(object sender, EventArgs e)
         {
-            var nomeC = eleRichieste.Where(n => n.nome == textBox8.Text).FirstOrDefault();
-
-            eleRichieste.Remove(nomeC);
+            var nomeC = eleRichieste.RemoveAll(n => n.nome == textBox8.Text);
 
             dgvcancella.DataSource = eleRichieste.ToList();
 
